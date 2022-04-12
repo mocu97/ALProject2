@@ -2,11 +2,14 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "server":"",
+            "serverInstance": "",
             "name": "Microsoft cloud sandbox",
             "request": "launch",
             "type": "al",
+            "tenant": "4601a261-3d6f-4eff-b194-fccd206c138d",
             "environmentType": "Sandbox",
-            "environmentName": "sandbox",
+            "environmentName": "",
             "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": true,
